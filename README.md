@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mayra Rodriguez
+- 👋 Hi, I’m Mayra Rodriguez -- PhD Candidate at the QUEX Institute
 - 👀 I’m interested in Green_Infrastructures, Urban_Drainage_Modelling, SWMM, Resilience and Python. 
 - 🌱 I’m currently learning how to create Python packages and generally improving my skills in GIS-Python
 - 💞️ I’m looking to collaborate on Green_Infrastructures_Applications, Resilience
