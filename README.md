@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayra Rodriguez - Earth Observation Scientist @ PML (UK)
-- 👀 I'm interested in earth_observation_for_ocean_science, ocean_colour, new_satellite_developments, machine_learning 
+- 👀 I'm interested in machine_learning, climate_change, climate_change_adaptation, remote_sensing
 - ⭐ Previously, I have worked in Urban_Drainage_Modelling, SWMM, Resilience, Green_Infrastructures, Deep Learning (and still love this field!)
 - 🌱 I’m currently learning how to use earth observation for understanding the ocean's carbon cycle
 - 💞️ I’m looking to collaborate on earth_observation_for_ocean_science - Still interested in SWMM, Urban_Drainage_Modelling, Green_Infrastructure_Applications, Resilience
