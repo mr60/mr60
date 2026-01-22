@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mayra Rodriguez - Research Fellow @ Exeter Uni (UK)
-- 👀 I'm interested in machine_learning, climate_change, climate_change_adaptation
+- 👀 I'm interested in agentic_AI, machine_learning, climate_change, climate_change_adaptation, climate_health_link
 - ⭐ Previously, I have worked in Urban_Drainage_Modelling, SWMM, Resilience, Green_Infrastructures, Deep Learning (and still love these fields!)
-- 🌱 I’m currently learning how to use GenAI for climate & health research
-- 💞️ I’m looking to collaborate on machine-learning-applications-for-climate - Still interested in SWMM, Urban_Drainage_Modelling, Green_Infrastructure_Applications, Resilience
+- 🌱 I’m currently learning how to use GenAI & Agents for climate & health research
+- 💞️ I’m looking to collaborate on AI-applications-for-climate - Still interested in SWMM, Urban_Drainage_Modelling, Green_Infrastructure_Applications, Resilience
 - 📫 How to reach me https://experts.exeter.ac.uk/34776-mayra-rodriguez
 
 <!---
